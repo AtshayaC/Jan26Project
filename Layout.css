@@ -1,0 +1,8 @@
+.nav-bar
+{
+    display:flex;
+    background-color: aqua;
+    padding: 53px;
+    list-style-type:none;
+    justify-content: space-evenly;
+}
